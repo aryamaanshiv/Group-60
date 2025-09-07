@@ -1,0 +1,151 @@
+mm_ss,time_seconds,period_id,type_name,result_name,bodypart_name,player_display,team_name,start_x,start_y,end_x,end_y
+0:00,0.507,1,pass,success,foot_left,Edinson Cavani,Uruguay,52.0625,34.425,78.3125,46.325
+0:02,2.427,1,dribble,success,foot,José Giménez,Uruguay,78.3125,46.325,77.4375,49.724999999999994
+0:03,3.707,1,pass,fail,foot_right,José Giménez,Uruguay,77.4375,49.724999999999994,31.0625,65.025
+0:06,6.4,1,pass,fail,head,Mohamed Abdul Shafy,Egypt,31.0625,65.025,48.5625,58.225
+0:08,8.267,1,dribble,success,foot,Matías Vecino,Uruguay,48.5625,58.224999999999994,48.5625,59.075
+0:09,9.587,1,pass,fail,foot_right,Matías Vecino,Uruguay,48.5625,59.075,48.5625,61.625
+0:10,10.667,1,dribble,success,foot,Matías Vecino,Uruguay,48.5625,61.625,54.6875,52.275000000000006
+0:11,11.747,1,pass,success,foot_right,Matías Vecino,Uruguay,54.6875,52.275000000000006,70.4375,48.875
+0:13,13.787,1,dribble,success,foot,José Giménez,Uruguay,70.4375,48.875,70.4375,48.025000000000006
+0:13,13.827,1,pass,success,foot_left,José Giménez,Uruguay,70.4375,48.025000000000006,74.8125,43.775000000000006
+0:14,14.507,1,dribble,success,foot,Diego Godín,Uruguay,74.8125,43.775000000000006,74.8125,44.625
+0:18,18.187,1,pass,success,foot_right,Diego Godín,Uruguay,74.8125,44.625,69.5625,47.175
+0:19,19.427,1,dribble,success,foot,Matías Vecino,Uruguay,69.5625,47.175,69.5625,47.175
+0:19,19.947,1,pass,success,foot_right,Matías Vecino,Uruguay,69.5625,47.175,76.5625,40.375
+0:21,21.527,1,dribble,success,foot,Diego Godín,Uruguay,76.5625,40.375,76.5625,43.775000000000006
+0:22,22.227,1,pass,success,foot_right,Diego Godín,Uruguay,76.5625,43.775000000000006,73.9375,25.075000000000003
+0:23,23.667,1,dribble,success,foot,Rodrigo Bentancur,Uruguay,73.9375,25.075000000000003,64.3125,9.774999999999999
+0:25,25.947,1,pass,success,foot_left,Rodrigo Bentancur,Uruguay,64.3125,9.774999999999999,55.5625,14.875
+0:26,26.587,1,dribble,success,foot,Giorgian De Arrascaeta,Uruguay,55.5625,14.875,59.0625,18.275
+0:27,27.507,1,pass,success,foot_right,Giorgian De Arrascaeta,Uruguay,59.0625,18.275,76.5625,25.924999999999997
+0:29,29.027,1,dribble,success,foot,Diego Godín,Uruguay,76.5625,25.924999999999997,73.9375,24.225
+0:30,30.067,1,pass,success,foot_right,Diego Godín,Uruguay,73.9375,24.225,59.0625,6.375
+0:31,31.72,1,dribble,success,foot,Martín Cáceres,Uruguay,59.0625,6.375,59.0625,10.625
+0:34,34.227,1,pass,success,foot_left,Martín Cáceres,Uruguay,59.0625,10.625,71.3125,18.275
+0:35,35.987,1,dribble,success,foot,Diego Godín,Uruguay,71.3125,18.275,71.3125,23.375
+0:37,37.427,1,pass,success,foot_right,Diego Godín,Uruguay,71.3125,23.375,68.6875,52.275000000000006
+0:39,39.147,1,dribble,success,foot,Guillermo Varela,Uruguay,68.6875,52.275000000000006,55.5625,59.075
+0:41,41.867,1,pass,fail,foot_right,Guillermo Varela,Uruguay,55.5625,59.075,46.8125,65.025
+0:42,42.6,1,interception,fail,foot,Trézéguet,Egypt,46.8125,65.025,46.8125,65.025
+0:53,53.627,1,throw_in,success,other,Guillermo Varela,Uruguay,46.8125,66.725,52.0625,37.825
+0:57,57.027,1,pass,success,foot_right,Rodrigo Bentancur,Uruguay,52.0625,37.825,52.0625,19.125
+0:58,58.987,1,dribble,success,foot,Martín Cáceres,Uruguay,52.0625,19.125,52.0625,19.125
+0:59,59.76,1,pass,success,foot_right,Martín Cáceres,Uruguay,52.0625,19.125,45.9375,24.225
+1:00,60.306,1,dribble,success,foot,Giorgian De Arrascaeta,Uruguay,45.9375,24.225,53.8125,28.475
+1:03,63.187,1,pass,success,foot_right,Giorgian De Arrascaeta,Uruguay,53.8125,28.475,59.9375,42.075
+1:04,64.827,1,dribble,success,foot,José Giménez,Uruguay,59.9375,42.075,59.9375,42.075
+1:05,65.507,1,pass,success,foot_right,José Giménez,Uruguay,59.9375,42.075,59.9375,25.075000000000003
+1:07,67.387,1,dribble,success,foot,Diego Godín,Uruguay,59.9375,25.075000000000003,60.8125,30.174999999999997
+1:09,69.0,1,pass,fail,foot_right,Diego Godín,Uruguay,60.8125,30.174999999999997,17.0625,58.224999999999994
+1:12,72.08,1,pass,success,head,Mohamed Abdul Shafy,Egypt,17.0625,58.225,20.5625,51.425
+1:14,74.2,1,dribble,success,foot,Ahmed Hegazy,Egypt,20.5625,51.425,20.5625,50.575
+1:15,75.64,1,pass,fail,foot_right,Ahmed Hegazy,Egypt,20.5625,50.575,59.0625,58.225
+1:18,78.187,1,pass,success,head,José Giménez,Uruguay,59.0625,58.224999999999994,43.3125,54.825
+1:20,80.667,1,pass,success,head,Matías Vecino,Uruguay,43.3125,54.825,50.31249999999999,45.474999999999994
+1:21,81.867,1,dribble,success,foot,Rodrigo Bentancur,Uruguay,50.31249999999999,45.474999999999994,24.0625,59.075
+1:27,87.467,1,pass,success,foot_right,Rodrigo Bentancur,Uruguay,24.0625,59.075,22.3125,66.725
+1:28,88.467,1,pass,success,foot_right,Nahitan Nández,Uruguay,22.3125,66.725,37.1875,66.725
+1:30,90.867,1,dribble,success,foot,Guillermo Varela,Uruguay,37.1875,66.725,37.1875,66.725
+1:31,91.307,1,pass,success,foot_right,Guillermo Varela,Uruguay,37.1875,66.725,39.8125,60.775000000000006
+1:32,92.307,1,dribble,success,foot,Rodrigo Bentancur,Uruguay,39.8125,60.775000000000006,39.8125,60.775000000000006
+1:33,93.627,1,pass,success,foot_right,Rodrigo Bentancur,Uruguay,39.8125,60.775000000000006,39.8125,34.425
+1:35,95.027,1,dribble,success,foot,Giorgian De Arrascaeta,Uruguay,39.8125,34.425,31.0625,40.375
+1:37,97.467,1,pass,success,foot_right,Giorgian De Arrascaeta,Uruguay,31.0625,40.375,26.6875,31.875
+1:38,98.267,1,dribble,success,foot,Luis Suárez,Uruguay,26.6875,31.875,24.0625,28.475
+1:39,99.667,1,pass,fail,foot_left,Luis Suárez,Uruguay,24.0625,28.475,18.8125,28.475
+1:40,100.32,1,interception,success,foot,Ali Gabr,Egypt,18.8125,28.474999999999994,18.8125,28.474999999999994
+1:40,100.32,1,pass,fail,head,Ali Gabr,Egypt,18.8125,28.474999999999994,21.4375,31.025000000000006
+1:40,100.667,1,dribble,success,foot,Luis Suárez,Uruguay,21.4375,31.025,20.5625,32.725
+1:41,101.64,1,tackle,success,foot,Tarek Hamed,Egypt,20.5625,32.724999999999994,20.5625,32.724999999999994
+1:42,102.48,1,dribble,success,foot,Mohamed Elneny,Egypt,20.5625,31.025000000000006,20.5625,30.174999999999997
+1:42,102.967,1,pass,success,foot_right,Mohamed Elneny,Egypt,20.5625,30.174999999999997,32.8125,29.325000000000003
+1:43,103.96,1,pass,success,foot_right,Abdalla El Said,Egypt,31.937499999999996,31.025000000000006,28.437499999999996,9.775000000000006
+1:45,105.6,1,dribble,success,foot,Amr Warda,Egypt,28.437499999999996,9.775000000000006,27.5625,5.525000000000006
+1:47,107.32,1,pass,fail,foot_right,Amr Warda,Egypt,27.5625,5.525000000000006,55.5625,32.724999999999994
+1:50,110.787,1,pass,fail,foot_right,José Giménez,Uruguay,55.5625,32.725,31.0625,65.025
+1:54,114.32,1,pass,success,foot_left,Mohamed Abdul Shafy,Egypt,31.0625,65.025,47.6875,62.475
+1:55,115.88,1,dribble,success,foot,Trézéguet,Egypt,47.6875,62.475,47.6875,64.175
+1:56,116.84,1,take_on,fail,foot,Trézéguet,Egypt,47.6875,64.175,47.6875,64.175
+1:56,116.84,1,tackle,fail,foot,Guillermo Varela,Uruguay,47.68750000000001,64.175,47.68750000000001,64.175
+2:08,128.96,1,throw_in,success,other,Mohamed Abdul Shafy,Egypt,49.4375,67.575,27.5625,61.625
+2:11,131.24,1,dribble,success,foot,Ahmed Hegazy,Egypt,27.5625,61.625,29.3125,48.025
+2:13,133.04,1,pass,success,foot_left,Ahmed Hegazy,Egypt,29.3125,48.025,25.8125,35.275
+2:15,135.2,1,dribble,success,foot,Ali Gabr,Egypt,25.8125,35.275,30.187499999999996,35.275
+2:17,137.88,1,pass,success,foot_right,Ali Gabr,Egypt,30.187499999999996,35.275,27.5625,48.025
+2:19,139.48,1,dribble,success,foot,Ahmed Hegazy,Egypt,27.5625,48.025,28.437499999999996,47.175
+2:21,141.6,1,pass,success,foot_right,Ahmed Hegazy,Egypt,28.437499999999996,47.175,36.3125,26.775000000000006
+2:23,143.0,1,dribble,success,foot,Mohamed Elneny,Egypt,36.3125,26.775000000000006,41.5625,20.825000000000003
+2:27,147.04,1,pass,success,foot_right,Mohamed Elneny,Egypt,41.5625,20.825000000000003,62.5625,20.825000000000003
+2:27,147.84,1,dribble,success,foot,Amr Warda,Egypt,62.5625,20.825000000000003,49.4375,15.724999999999994
+2:30,150.32,1,pass,success,foot_left,Amr Warda,Egypt,49.4375,15.724999999999994,32.8125,20.825000000000003
+2:31,151.88,1,pass,success,foot_right,Ali Gabr,Egypt,32.8125,23.375,24.9375,47.175
+2:33,153.72,1,dribble,success,foot,Ahmed Hegazy,Egypt,24.9375,47.175,37.1875,42.075
+2:39,159.36,1,pass,success,foot_right,Ahmed Hegazy,Egypt,37.1875,42.075,56.4375,64.175
+2:41,161.12,1,dribble,success,foot,Trézéguet,Egypt,56.4375,64.175,57.31249999999999,64.175
+2:44,164.76,1,tackle,success,foot,Nahitan Nández,Uruguay,57.3125,64.175,57.3125,64.175
+2:44,164.76,1,dribble,success,foot,Nahitan Nández,Uruguay,57.3125,64.175,56.4375,60.775000000000006
+2:44,164.847,1,pass,success,foot_left,Nahitan Nández,Uruguay,56.4375,60.775000000000006,53.8125,49.724999999999994
+2:45,165.06,1,dribble,success,foot,Edinson Cavani,Uruguay,53.8125,49.724999999999994,53.8125,48.025000000000006
+2:45,165.762,1,bad_touch,fail,foot,Edinson Cavani,Uruguay,53.8125,48.025000000000006,53.8125,48.025000000000006
+3:17,197.64,1,pass,success,foot_right,Trézéguet,Egypt,54.68750000000001,58.225,57.31249999999999,63.325
+3:18,198.72,1,dribble,success,foot,Mohamed Abdul Shafy,Egypt,57.31249999999999,63.325,55.5625,65.025
+3:20,200.44,1,pass,success,foot_left,Mohamed Abdul Shafy,Egypt,55.5625,65.025,50.3125,59.075
+3:21,201.119,1,dribble,success,foot,Tarek Hamed,Egypt,50.3125,59.075,54.68750000000001,58.225
+3:22,202.52,1,pass,fail,foot_right,Tarek Hamed,Egypt,54.68750000000001,58.225,64.3125,42.075
+3:23,203.347,1,interception,success,foot,Rodrigo Bentancur,Uruguay,64.3125,42.075,64.3125,42.075
+3:23,203.347,1,dribble,success,foot,Rodrigo Bentancur,Uruguay,64.3125,42.075,39.8125,37.825
+3:27,207.547,1,take_on,fail,foot,Rodrigo Bentancur,Uruguay,39.8125,37.825,39.8125,37.825
+3:27,207.547,1,tackle,success,foot,Tarek Hamed,Egypt,39.8125,37.825,39.8125,37.825
+3:28,208.37349999999998,1,dribble,success,foot,Mohamed Abdul Shafy,Egypt,39.8125,37.825,33.6875,49.725
+3:29,209.2,1,pass,success,foot_left,Mohamed Abdul Shafy,Egypt,33.6875,49.725,50.3125,63.325
+3:31,211.12,1,dribble,success,foot,Trézéguet,Egypt,50.3125,63.325,48.5625,65.025
+3:34,214.36,1,pass,success,foot_right,Trézéguet,Egypt,48.5625,65.025,43.3125,57.375
+3:35,215.147,1,dribble,success,foot,Tarek Hamed,Egypt,43.3125,57.375,43.3125,59.075
+3:35,215.147,1,interception,fail,foot,Rodrigo Bentancur,Uruguay,41.56250000000001,53.125,41.56250000000001,53.125
+3:35,215.2,1,pass,success,foot_right,Tarek Hamed,Egypt,43.3125,59.075,31.0625,64.175
+3:36,216.4,1,dribble,success,foot,Mohamed Abdul Shafy,Egypt,31.0625,64.175,27.5625,64.175
+3:36,216.8,1,pass,success,foot_right,Mohamed Abdul Shafy,Egypt,27.5625,64.175,21.4375,59.075
+3:38,218.2,1,dribble,success,foot,Ahmed Hegazy,Egypt,21.4375,59.075,22.3125,59.925
+3:39,219.2,1,pass,success,foot_left,Ahmed Hegazy,Egypt,22.3125,59.925,41.5625,63.325
+3:40,220.32,1,pass,success,foot_right,Trézéguet,Egypt,42.4375,63.325,35.4375,65.025
+3:41,221.48,1,dribble,success,foot,Mohamed Abdul Shafy,Egypt,35.4375,65.025,35.4375,64.175
+3:41,221.67,1,pass,fail,foot_left,Mohamed Abdul Shafy,Egypt,35.4375,64.175,34.5625,65.875
+3:51,231.6,1,throw_in,success,other,Mohamed Abdul Shafy,Egypt,33.6875,67.575,41.5625,63.325
+3:52,232.56,1,pass,success,foot_right,Abdalla El Said,Egypt,40.6875,64.175,35.4375,65.025
+3:53,233.32,1,dribble,success,foot,Mohamed Abdul Shafy,Egypt,35.4375,65.025,38.0625,65.875
+3:54,234.12,1,pass,success,foot_left,Mohamed Abdul Shafy,Egypt,38.0625,65.875,42.4375,61.625
+3:54,234.72,1,dribble,success,foot,Abdalla El Said,Egypt,42.4375,61.625,61.6875,66.725
+3:58,238.807,1,pass,success,foot_right,Abdalla El Said,Egypt,61.6875,66.725,73.9375,62.475
+3:59,239.68,1,dribble,success,foot,Marwan Mohsen,Egypt,73.9375,62.475,78.3125,65.875
+4:02,242.64,1,pass,success,foot_right,Marwan Mohsen,Egypt,78.3125,65.875,102.8125,62.475
+4:05,245.76,1,dribble,success,foot,Trézéguet,Egypt,102.8125,62.475,103.6875,64.175
+4:07,247.52,1,tackle,fail,foot,Diego Godín,Uruguay,103.6875,64.175,103.6875,64.175
+4:27,267.52,1,throw_in,success,other,Mohamed Abdul Shafy,Egypt,98.4375,66.725,102.8125,60.775
+4:28,268.28,1,pass,success,foot_right,Abdalla El Said,Egypt,102.8125,60.775,98.4375,65.025
+4:29,269.32,1,dribble,success,foot,Mohamed Abdul Shafy,Egypt,98.4375,65.025,97.5625,65.025
+4:30,270.28,1,pass,success,foot_left,Mohamed Abdul Shafy,Egypt,97.5625,65.025,89.6875,59.075
+4:31,271.76,1,pass,fail,foot_right,Abdalla El Said,Egypt,90.5625,58.225,92.3125,56.525
+4:33,273.147,1,dribble,success,foot,Luis Suárez,Uruguay,80.0625,59.925,75.6875,65.025
+4:34,274.467,1,pass,success,foot_right,Luis Suárez,Uruguay,75.6875,65.025,75.6875,14.875
+4:38,278.387,1,dribble,success,foot,Martín Cáceres,Uruguay,75.6875,14.875,86.1875,3.825000000000003
+4:38,278.387,1,interception,fail,foot,Amr Warda,Egypt,76.5625,16.575000000000003,76.5625,16.575000000000003
+4:40,280.40700000000004,1,dribble,success,foot,Amr Warda,Egypt,76.5625,16.575000000000003,86.1875,3.825000000000003
+4:42,282.427,1,tackle,fail,foot,Amr Warda,Egypt,86.1875,3.825000000000003,86.1875,3.825000000000003
+4:58,298.187,1,throw_in,fail,other,Martín Cáceres,Uruguay,83.5625,1.2750000000000057,62.5625,19.125
+4:59,299.867,1,pass,fail,head,Tarek Hamed,Egypt,62.5625,19.125,65.1875,20.825000000000003
+5:01,301.067,1,dribble,success,foot,Giorgian De Arrascaeta,Uruguay,61.6875,8.924999999999997,59.9375,8.924999999999997
+5:01,301.637,1,pass,success,foot_right,Giorgian De Arrascaeta,Uruguay,59.9375,8.924999999999997,56.4375,14.875
+5:02,302.587,1,dribble,success,foot,Edinson Cavani,Uruguay,56.4375,14.875,59.9375,22.525
+5:02,302.68,1,pass,success,foot_right,Edinson Cavani,Uruguay,59.9375,22.525,49.4375,3.825000000000003
+5:04,304.56,1,dribble,success,foot,Luis Suárez,Uruguay,49.4375,3.825000000000003,48.5625,1.2750000000000057
+5:04,304.787,1,pass,fail,foot_left,Luis Suárez,Uruguay,48.5625,1.2750000000000057,10.9375,39.525000000000006
+5:18,318.12,1,pass,fail,foot_right,Ahmed Hegazy,Egypt,24.9375,45.475,28.437499999999996,29.325000000000003
+5:18,318.587,1,interception,fail,foot,Luis Suárez,Uruguay,28.4375,29.325000000000003,28.4375,29.325000000000003
+5:21,321.2,1,dribble,success,foot,Ahmed Fathy,Egypt,25.8125,3.825000000000003,24.9375,4.674999999999997
+5:23,323.36,1,pass,fail,foot_right,Ahmed Fathy,Egypt,24.9375,4.674999999999997,46.8125,10.625
+5:24,324.907,1,interception,fail,foot,Rodrigo Bentancur,Uruguay,46.8125,10.625,46.8125,10.625
+5:39,339.867,1,pass,success,foot_right,Giorgian De Arrascaeta,Uruguay,57.3125,8.075000000000003,64.3125,2.9749999999999943
+5:40,340.787,1,dribble,success,foot,Martín Cáceres,Uruguay,64.3125,2.9749999999999943,70.4375,2.125
+5:42,342.427,1,pass,success,foot_right,Martín Cáceres,Uruguay,70.4375,2.125,88.8125,11.475000000000001
+5:43,343.907,1,dribble,success,foot,Diego Godín,Uruguay,88.8125,11.475000000000001,89.6875,2.9749999999999943
